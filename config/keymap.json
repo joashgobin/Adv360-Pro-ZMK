@@ -7,7 +7,7 @@
     "keypad",
     "fn",
     "mod",
-    "brackets"
+    "my-layer"
   ],
   "layers": [
     [
@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",         "&trans",               "&trans",            "&trans",    "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",         "&trans",               "&trans",            "&trans",    "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&kp LEFT_BRACE", "&kp LEFT_PARENTHESIS", "&kp DOUBLE_QUOTES", "&kp COLON", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans",         "&trans",               "&trans",            "&trans",    "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                   "&trans",               "&trans",            "&trans",    "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",         "&trans",               "&trans",            "&trans",    "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans", "&trans",         "&trans",               "&trans",            "&trans",    "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&kp EQUAL", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&kp LEFT_BRACE", "&kp LEFT_PARENTHESIS", "&kp DOUBLE_QUOTES", "&kp MINUS", "&trans",
+       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans",         "&trans",               "&trans",            "&trans",    "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans",    "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                   "&trans",               "&trans",            "&trans",    "&trans", "&trans"
     ]
   ]
 }

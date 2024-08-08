@@ -78,13 +78,13 @@
             >;
         };
 
-        layer_brackets {
+        layer_my_layer {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans          &trans                &trans             &trans     &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans          &trans                &trans             &trans     &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp DOUBLE_QUOTES  &kp COLON  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans          &trans                &trans             &trans     &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                  &trans                &trans             &trans     &trans  &trans
+ &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans  &trans          &trans                &trans             &trans     &trans  &trans
+ &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans  &trans          &trans                &trans             &trans     &trans  &trans
+ &trans  &trans  &trans  &trans  &kp EQUAL  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp DOUBLE_QUOTES  &kp MINUS  &trans
+ &trans  &trans  &trans  &trans     &trans  &trans                            &trans                  &trans                  &trans          &trans                &trans             &trans     &trans  &trans
+ &trans  &trans  &trans  &trans     &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                  &trans                &trans             &trans     &trans  &trans
             >;
         };
 
